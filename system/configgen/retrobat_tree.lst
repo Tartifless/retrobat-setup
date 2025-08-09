@@ -122,6 +122,8 @@ emulators\cemu\portable
 emulators\cgenius
 emulators\chihiro
 emulators\chihiro\EmuDisk
+emulators\chihiro-ds
+emulators\chihiro-ds\EmuDisk
 emulators\citra
 emulators\citra\user
 emulators\citra\user\config
