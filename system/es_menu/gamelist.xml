@@ -1003,8 +1003,42 @@
 		<marquee>./media/cxbxr-logo.png</marquee>
 		<rating>0</rating>
 		<releasedate />
-		<developer>Xemu Team</developer>
-		<publisher>Xemu Team</publisher>
+		<developer>CXBX Team</developer>
+		<publisher>CXBX Team</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./chihiro.menu</path>
+		<name>Chihiro (CxBx Reloaded - old)</name>
+		<desc>Run Chihiro Emulator.</desc>
+		<image>./media/cxbxr-logo.png</image>
+		<marquee>./media/cxbxr-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>CXBX Team</developer>
+		<publisher>CXBX Team</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./chihiro-gun.menu</path>
+		<name>Chihiro-ds (CxBx Reloaded - gun games)</name>
+		<desc>Run Chihiro Emulator (gun version).</desc>
+		<image>./media/cxbxr-logo.png</image>
+		<marquee>./media/cxbxr-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>CXBX Team</developer>
+		<publisher>CXBX Team</publisher>
 		<genre>Emulator</genre>
 		<playcount />
 		<lastplayed />
